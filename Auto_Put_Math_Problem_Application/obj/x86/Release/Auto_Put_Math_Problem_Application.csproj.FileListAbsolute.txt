@@ -1,0 +1,7 @@
+C:\Users\Leon Jobs\documents\visual studio 2010\Projects\Auto_Put_Math_Problem_Application\Auto_Put_Math_Problem_Application\bin\Release\Auto_Put_Math_Problem_Application.exe
+C:\Users\Leon Jobs\documents\visual studio 2010\Projects\Auto_Put_Math_Problem_Application\Auto_Put_Math_Problem_Application\bin\Release\Auto_Put_Math_Problem_Application.pdb
+C:\Users\Leon Jobs\documents\visual studio 2010\Projects\Auto_Put_Math_Problem_Application\Auto_Put_Math_Problem_Application\obj\x86\Release\Auto_Put_Math_Problem_Application.Form1.resources
+C:\Users\Leon Jobs\documents\visual studio 2010\Projects\Auto_Put_Math_Problem_Application\Auto_Put_Math_Problem_Application\obj\x86\Release\Auto_Put_Math_Problem_Application.Properties.Resources.resources
+C:\Users\Leon Jobs\documents\visual studio 2010\Projects\Auto_Put_Math_Problem_Application\Auto_Put_Math_Problem_Application\obj\x86\Release\Auto_Put_Math_Problem_Application.csproj.GenerateResource.Cache
+C:\Users\Leon Jobs\documents\visual studio 2010\Projects\Auto_Put_Math_Problem_Application\Auto_Put_Math_Problem_Application\obj\x86\Release\Auto_Put_Math_Problem_Application.exe
+C:\Users\Leon Jobs\documents\visual studio 2010\Projects\Auto_Put_Math_Problem_Application\Auto_Put_Math_Problem_Application\obj\x86\Release\Auto_Put_Math_Problem_Application.pdb
